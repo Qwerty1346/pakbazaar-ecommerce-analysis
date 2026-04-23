@@ -33,8 +33,7 @@ as the highest loss-risk segments requiring immediate quality review.
    any logistics disruption, competitor entry, or regulatory change 
    in Karachi directly threatens the majority of business revenue. 
    Diversification into Lahore and Multan should be a priority."
-
----
+            "A 34% return rate in Electronics — vs. 12% category average — signals either a product quality issue, misleading listings, or mismatched customer expectations. Before labeling this a 'problem,' the business needs to determine: are returns clustered in specific SKUs, or distributed? Are they 'damaged in transit' or 'not as described'? The SQL query identifies the symptom; root cause requires deeper investigation.
 
 ### 2. Category Profitability
 
