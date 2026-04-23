@@ -1,12 +1,13 @@
 # PakBazaar E-Commerce Analysis
 
-**Analyst**: Ahmad Raza
+**Analyst:** Ahmad Raza
 **Institution:** COMSATS University Lahore — BS Business Data Analytics
 **Tools:** SQL (MySQL)
 **Dataset:** 15 customers, 20 orders, 28 line items
 
+---
 
-# Executive Summary
+## Executive Summary
 
 PakBazaar's Q3–Q4 2023 data reveals that Karachi drives 63.11% of total revenue
 despite representing 40% of orders. Electronics is the highest-revenue category
@@ -14,10 +15,11 @@ but Clothing delivers the strongest margins. The 36.36% repeat customer rate
 signals healthy retention. Return rate analysis identifies Sports and Electronics
 as the highest loss-risk segments requiring immediate quality review.
 
+---
 
-# Key Findings
+## Key Findings
 
-# 1. Revenue by City
+### 1. Revenue by City
 
 | City       | Revenue (PKR) | Orders | Share (%) |
 |------------|---------------|--------|-----------|
@@ -30,8 +32,9 @@ as the highest loss-risk segments requiring immediate quality review.
 **Insight:** Karachi generates the highest revenue at 63.11% share.
 Lahore ranks second at 13.34%.
 
+---
 
-# 2. Category Profitability
+### 2. Category Profitability
 
 | Category       | Revenue (PKR) | Margin (%) | Label           |
 |----------------|---------------|------------|-----------------|
@@ -46,8 +49,9 @@ Lahore ranks second at 13.34%.
 **Insight:** Books have the lowest revenue but a high profit margin.
 Clothing should receive increased inventory investment due to its 57% margin.
 
+---
 
-# 3. Customer Loyalty
+### 3. Customer Loyalty
 
 | Metric            | Value  |
 |-------------------|--------|
@@ -59,8 +63,9 @@ Clothing should receive increased inventory investment due to its 57% margin.
 **Insight:** Repeat rate exceeds the industry average, indicating strong
 customer retention. 4 registered users have placed zero orders.
 
+---
 
-# 4. Return and Cancellation Risk
+### 4. Return and Cancellation Risk
 
 | Category       | Loss Rate (%) |
 |----------------|---------------|
@@ -75,8 +80,9 @@ customer retention. 4 registered users have placed zero orders.
 Electronics shows 42.86% based on 3 transactions. Both figures require
 more data before actionable conclusions can be drawn.
 
+---
 
-# 5. Top Customers by Lifetime Value
+### 5. Top Customers by Lifetime Value
 
 | Customer ID | City       | Orders | LTV (PKR) | Segment    |
 |-------------|------------|--------|-----------|------------|
@@ -94,7 +100,7 @@ more data before actionable conclusions can be drawn.
 
 ---
 
-# 6. Business Health Dashboard
+### 6. Business Health Dashboard
 
 | Metric          | Value      |
 |-----------------|------------|
@@ -108,9 +114,9 @@ more data before actionable conclusions can be drawn.
 cancelled or returned — representing a 45% loss rate that requires
 immediate operational review.
 
+---
 
-
-# SQL Concepts Demonstrated
+## SQL Concepts Demonstrated
 
 - Window functions
 - Common Table Expressions (CTEs)
@@ -125,6 +131,7 @@ immediate operational review.
 2. RFM segmentation model (Recency, Frequency, Monetary)
 3. Power BI dashboard for live monitoring
 4. Python / pandas replication with matplotlib visualizations
+
 
 
 *This project was completed as part of an independent data analytics portfolio.
