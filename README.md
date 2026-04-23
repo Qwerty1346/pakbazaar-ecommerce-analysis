@@ -29,8 +29,10 @@ as the highest loss-risk segments requiring immediate quality review.
 | Islamabad  | 11,000        | 2      | 7.30      |
 | Faisalabad | 5,300         | 1      | 3.52      |
 
-**Insight:** Karachi generates the highest revenue at 63.11% share.
-Lahore ranks second at 13.34%.
+**Insight:** "Karachi's 63.11% revenue concentration is a strategic risk — 
+   any logistics disruption, competitor entry, or regulatory change 
+   in Karachi directly threatens the majority of business revenue. 
+   Diversification into Lahore and Multan should be a priority."
 
 ---
 
